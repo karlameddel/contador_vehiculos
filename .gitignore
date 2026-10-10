@@ -1,0 +1,23 @@
+# Entornos virtuales de Python
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos temporales y de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Si el vídeo 'trafico.mp4' pesa más de 50-100 MB, descomenta la siguiente línea:
+# *.mp4
