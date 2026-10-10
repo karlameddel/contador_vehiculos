@@ -1,4 +1,4 @@
-# Proyecto de Fundamentos de Sistemas Inteligentes (FSI)
+# Contador de Vehíhulos
 
 > Proyecto desarrollado originalmente como práctica para la asignatura **Fundamentos de Sistemas Inteligentes**.
 
